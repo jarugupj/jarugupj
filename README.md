@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am Phani, third computer science student doing my bachelors at UC. I am currently co-oping at BMW as AI & Data Science Co-op.
+# About Me
+👋 Hi, I'm Phani Bharadwaj Jarugumilli, a Computer Science student at the University of Cincinnati (Class of 2027). Currently, I'm an AI & Data Science Co-op at BMW, where I work on automation, machine learning, and data analytics to enhance manufacturing efficiency.
+
+💡 Passionate about AI, NLP, and scalable software development, I enjoy building innovative solutions that optimize workflows and improve decision-making.
+
+🛠️ Some of my recent projects include:
+🚀 Q-Bot – An AI-powered quality bot that reduced defect analysis time by 93% using RAG & NLP.
+💰 FinVest – A finance app integrating Plaid API & VR-based stock trading simulation, winning Best Finance Software Award 2024.
+🎮 NeuroPlay – A reinforcement learning agent for autonomous gameplay improvement.
+
+📌 Always open to collaborations & discussions on AI, full-stack development, and data-driven solutions. Feel free to connect!
 
 
 ## 🌐 Socials:
