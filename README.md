@@ -1,5 +1,5 @@
 # About Me
-👋 Hi, I'm Phani Bharadwaj Jarugumilli, a Computer Science student at the University of Cincinnati (Class of 2027). Currently, I'm an AI & Data Science Co-op at BMW, where I work on automation, machine learning, and data analytics to enhance manufacturing efficiency.
+👋 Hi, I'm Phani Bharadwaj Jarugumilli, a Computer Science student at the University of Cincinnati (Class of 2027). Currently, I'm a Software and Data Engineering at BMW, where I work on automation, machine learning, and data analytics to enhance manufacturing efficiency.
 
 💡 Passionate about AI, NLP, and scalable software development, I enjoy building innovative solutions that optimize workflows and improve decision-making.
 
