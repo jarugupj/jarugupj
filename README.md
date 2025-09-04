@@ -1,5 +1,5 @@
 # About Me
-👋 Hi, I'm Phani Bharadwaj Jarugumilli, a Computer Science student at the University of Cincinnati (Class of 2027). Currently, I'm a Software Engineering Co-op at Kernel.
+👋 Hi, I'm Phani Bharadwaj Jarugumilli, a Computer Science student at the University of Cincinnati (Class of 2027). Currently, I'm a Software Engineer Co-op at Kernel.
 
 💡 Passionate about AI, NLP, and scalable software development, I enjoy building innovative solutions that optimize workflows and improve decision-making.
 
